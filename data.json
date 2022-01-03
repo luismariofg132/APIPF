@@ -1,0 +1,61 @@
+{
+    "produts": [
+        {
+            "id": 1,
+            "nombre": "Camiseta Blu E",
+            "precio": 10.5,
+            "precioInicial": 13.2,
+            "descuento": "-33%",
+            "image": "https://res.cloudinary.com/ddgyxfetd/image/upload/v1640880855/WorkShop1/camiseta-blue-e.jpg"
+        },
+        {
+            "id": 2,
+            "nombre": "Fresh",
+            "precio": "10.5",
+            "precioInicial": "13.2",
+            "descuento": "-33%",
+            "image": "https://res.cloudinary.com/ddgyxfetd/image/upload/v1640880896/WorkShop1/fresh.jpg"
+        },
+        {
+            "id": 3,
+            "nombre": "Outfit 3",
+            "precio": 10.5,
+            "precioInicial": 13.2,
+            "descuento": "-33%",
+            "image": "https://res.cloudinary.com/ddgyxfetd/image/upload/v1640880944/WorkShop1/outfit-3.jpg"
+        },
+        {
+            "id": 4,
+            "nombre": "Outfit 4",
+            "precio": 10.5,
+            "precioInicial": 13.2,
+            "descuento": "-33%",
+            "image": "https://res.cloudinary.com/ddgyxfetd/image/upload/v1640880977/WorkShop1/outfit-4.jpg"
+        },
+        {
+            "id": 5,
+            "nombre": "Outfit 5",
+            "precio": 10.5,
+            "precioInicial": 13.2,
+            "descuento": "-33%",
+            "image": "https://res.cloudinary.com/ddgyxfetd/image/upload/v1640881004/WorkShop1/outfit-5.jpg"
+        },
+        {
+            "id": 6,
+            "nombre": "H/M",
+            "precio": 10.5,
+            "precioInicial": 13.2,
+            "descuento": "-33%",
+            "image": "https://res.cloudinary.com/ddgyxfetd/image/upload/v1640881027/WorkShop1/hym.jpg"
+        },
+        {
+            "id": 7,
+            "nombre": "2x1",
+            "precio": 10.5,
+            "precioInicial": 13.2,
+            "descuento": "-33%",
+            "image": "https://res.cloudinary.com/ddgyxfetd/image/upload/v1640881044/WorkShop1/2x1.jpg"
+        }
+    ],
+    "usuarios": []
+}
