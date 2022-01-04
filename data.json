@@ -11,8 +11,8 @@
         {
             "id": 2,
             "nombre": "Fresh",
-            "precio": "10.5",
-            "precioInicial": "13.2",
+            "precio": 10.5,
+            "precioInicial": 13.2,
             "descuento": "-33%",
             "image": "https://res.cloudinary.com/ddgyxfetd/image/upload/v1640880896/WorkShop1/fresh.jpg"
         },
